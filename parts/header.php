@@ -12,4 +12,12 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap" rel="stylesheet">
 </head>
-<body>
+<style>
+    .patrick-hand-regular {
+        font-family: "Patrick Hand", cursive;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 15pt;
+    }
+</style>
+<body style="min-height: 100vh;">

@@ -8,13 +8,6 @@
         color: #9A3F3F;
         font-weight: bold;
     }
-
-    .patrick-hand-regular {
-        font-family: "Patrick Hand", cursive;
-        font-weight: 400;
-        font-style: normal;
-        font-size: 15pt;
-    }
 </style>
 
 <nav class="navbar navbar-expand-lg patrick-hand-regular" style="background-color: #FD7979;" data-bs-theme="light">
