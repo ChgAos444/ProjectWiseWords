@@ -1,17 +1,28 @@
-<footer class="text-center text-lg-start container-fluid px-0 fixed-bottom" style="background-color: #FD7979;">
+<footer class="text-center text-lg-start container-fluid px-0" style="background-color: #FD7979;">
     <div class="container d-flex justify-content-center py-5">
-        <button type="button" class="btn rounded-circle mx-2 btn-light" style="width: 50px; height: 50px;">
-            <i class="fa-brands fa-facebook-f fa-lg" style="color: #9A3F3F;"></i>
-        </button>
-        <button type="button" class="btn rounded-circle mx-2 btn-light" style="width: 50px; height: 50px;">
-            <i class="fa-brands fa-youtube fa-lg" style="color: #9A3F3F;"></i>
-        </button>
-        <button type="button" class="btn rounded-circle mx-2 btn-light" style="width: 50px; height: 50px;">
-            <i class="fa-brands fa-instagram fa-xl" style="color: #9A3F3F;"></i>
-        </button>
-        <button type="button" class="btn rounded-circle mx-2 btn-light" style="width: 50px; height: 50px;">
-            <i class="fa-brands fa-tiktok fa-lg" style="color: #9A3F3F;"></i>
-        </button>
+        <a href="https://www.facebook.com/">
+            <button type="button" class="btn rounded-circle mx-2 btn-light" style="width: 50px; height: 50px;">
+                <i class="fa-brands fa-facebook-f fa-lg" style="color: #9A3F3F;"></i>
+            </button>
+        </a>
+
+        <a href="https://www.youtube.com/">
+            <button type="button" class="btn rounded-circle mx-2 btn-light" style="width: 50px; height: 50px;">
+                <i class="fa-brands fa-youtube fa-lg" style="color: #9A3F3F;"></i>
+            </button>
+        </a>
+
+        <a href="https://www.instagram.com/urta_e_arte/">
+            <button type="button" class="btn rounded-circle mx-2 btn-light" style="width: 50px; height: 50px;">
+                <i class="fa-brands fa-instagram fa-xl" style="color: #9A3F3F;"></i>
+            </button>
+        </a>
+
+        <a href="https://www.tiktok.com/">
+            <button type="button" class="btn rounded-circle mx-2 btn-light" style="width: 50px; height: 50px;">
+                <i class="fa-brands fa-tiktok fa-lg" style="color: #9A3F3F;"></i>
+            </button>
+        </a>
     </div>
 
     <div class="text-center text-white py-3" style="background-color: #9A3F3F;">
