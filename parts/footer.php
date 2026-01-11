@@ -27,7 +27,7 @@
 
     <div class="text-center text-white py-3" style="background-color: #9A3F3F;">
         © 2025 Copyright:
-        <a class="text-white" style="text-decoration:none;" href="#">Arens Danja</a>
+        <a class="text-white" style="text-decoration:none;" href="#">urta_e_arte</a>
     </div>
 </footer>
 

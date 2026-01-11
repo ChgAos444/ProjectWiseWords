@@ -24,6 +24,23 @@
             font-style: normal;
             font-size: 15pt;
         }
+
+        .page-item.active .page-link {
+            color: #fff !important;
+            border: 1px solid #9A3F3F;
+            background: #FD7979 !important;
+        }
+
+        .map-title {
+            margin-bottom: 2rem;
+            font-size: 5rem;
+        }
+
+        @media (max-width: 576px) {
+            .map-title {
+                font-size: 2.7rem; /* much smaller on small phones */
+            }
+        }
     </style>
 </head>
 <body>
